@@ -1,4 +1,3 @@
 TheKryzzz_
-Stepaa_pris
 
 online-mode=true
