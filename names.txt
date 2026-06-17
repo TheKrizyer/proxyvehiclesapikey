@@ -2,4 +2,4 @@ TheKryzzz_
 mNuckem
 
 online-mode=true
-whitelist=true
+whitelist=false
