@@ -2,3 +2,4 @@ TheKryzzz_
 mNuckem
 
 online-mode=false
+whitelist = true
