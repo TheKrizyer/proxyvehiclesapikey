@@ -1,6 +1,5 @@
 TheKryzzz_
 mNuckem
-lexa854
 
-online-mode=false
-whitelist=false
+online-mode=true
+whitelist=true
