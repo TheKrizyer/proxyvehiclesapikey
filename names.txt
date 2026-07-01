@@ -1,5 +1,5 @@
-whitelist=true
-online=true
+whitelist=false
+online=false
 
 mNuckem
 TheKryzzz_
